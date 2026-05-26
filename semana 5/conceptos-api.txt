@@ -1,0 +1,2 @@
+Una ruta /api en una aplicación web se usa para manejar peticiones de datos, en lugar de mostrar páginas visuales.
+En resumen, la ruta /api es el lugar donde la aplicación envía y recibe información, permitiendo que la comunidad interactúe y comparta datos dentro de la plataforma.

@@ -1,0 +1,3 @@
+en la ruta http://localhost:3000 nos dice servidor funcionando
+en la ruta http://localhost:3000/saludo nos aparece lo mismo
+en la ruta http://localhost:3000/mensaje/juan nos aparece lo mismo

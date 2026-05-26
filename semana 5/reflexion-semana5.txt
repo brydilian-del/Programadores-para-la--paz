@@ -1,0 +1,1 @@
+Las APIs permiten que diferentes partes de una aplicación (o incluso varias aplicaciones) se comuniquen entre sí de forma ordenada. Gracias a eso, la información de una comunidad no se pierde ni se mezcla, sino que se organiza, se guarda y se distribuye correctamente.
